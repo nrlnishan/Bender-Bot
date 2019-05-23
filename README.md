@@ -2,6 +2,9 @@
 
 Bender bot is a simple python based CLI project to save todos or some text. You can interact with Bender 🤖, our friendly robot to save your snippets or todos in command line. 
 
+## Requirement
+Python 3+
+
 ## What you can do with Bender
 
 Create a simple todos or snippets or whatever. Just write something and ask bender to save it. Want to know what you have saved? Ask bender to display it. Don't need it? Ask bender to delete it. Run the file ```bender.py``` and interact with Bender 🤖
